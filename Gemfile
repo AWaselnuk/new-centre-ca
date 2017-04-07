@@ -1,9 +1,6 @@
 source "https://rubygems.org"
 ruby RUBY_VERSION
 
-# The site theme https://github.com/broccolini/athena
-gem "jekyll-athena"
-
 # If you have any plugins, put them here!
 group :jekyll_plugins do
    gem "github-pages"
