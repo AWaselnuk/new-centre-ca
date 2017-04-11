@@ -42,6 +42,10 @@ When you are ready to publish a post, you simply have to move the post to the `_
 1. Update the remote GIt repository with `git push origin master`.
 1. The post should be live in under a minute.
 
+## Idea backlog using Issues
+
+We can create a backlog of ideas or work we want done on the website using [Github Issues](https://github.com/AWaselnuk/new-centre-ca/issues). Try to write Issues in such a way that there is a clear criteria for resolving them.
+
 ## Peer reviewed articles
 
 Using Github, we can leverage sophisticated tools for reviewing articles or website content as a team. Once we get more comfortable with the basic publishing workflow, we can write up docs for how to do reviews on Github.
