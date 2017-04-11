@@ -7,7 +7,7 @@ categories: articles
 
 I am working on a project based on the premise that in a time of polarization we need a new centre. Is anyone interested in participating? I am currently at the pre-organising phase. I have purchased newcentre.ca, the corresponding facebook and twitter handles. Right now it is about crowd-sourcing a coherent inclusive definition of what a "new centre" would look like and then coordinating a public speaking and workshopping event that hopefully will generate a first round of projects to work on.
 
-> As the started to build machines that could perceive they discovered, in this was in the early sixties, that perception was such a complicated problem that is actually looked impossible... Its goal directed action that sets the pragmatic frame for perception. Perception is a tool used to attain certain goals. It is not a way of dispassionately observing an infinite set of variables.
+> As they started to build machines that could perceive they discovered, in this was in the early sixties, that perception was such a complicated problem that is actually looked impossible... Its goal directed action that sets the pragmatic frame for perception. Perception is a tool used to attain certain goals. It is not a way of dispassionately observing an infinite set of variables.
 
 > Jordan B Peterson
 

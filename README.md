@@ -20,3 +20,24 @@ This website is built with [Jekyll](https://jekyllrb.com/) using the [Athena the
 Read the [Jekyll docs](https://jekyllrb.com/) for more information on how to write blog posts.
 
 Read the [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to learn how to format blog posts.
+
+## Writing workflow
+
+Here is a suggested workflow for writing a blog post.
+
+1. Make sure your local Git repository is up to date. `git pull`
+1. Copy the template file in the `_drafts` folder. Change the name of the file and the front matter to reflect the current date and whatever the article will be called.
+1. Choose a category. I think we should just have two for now: `articles` and `conference`.
+1. Run `jekyll serve --drafts` to preview your work in a web browser.
+1. When you are finished writing the article, commit your changes to git by saving the file and then typing. `git add . && git commit -am 'Your message here'`.
+   * An example of a good message is `'Added draft for post about terminology'`. Keep it short, relevant to the work you did, and in the past tense.
+1. Update the remote Git repository with `git push origin master`.
+
+## Publishing a post
+
+When you are ready to publish a post, you simply have to move the post to the `_posts` folder and update the Git repository.
+
+1. Move the post from `_drafts` to `_posts`.
+1. Update Git with `git add . && git commit -am 'Moved post to posts folder'`
+1. Update the remote GIt repository with `git push origin master`.
+1. The post should be live in under a minute.
