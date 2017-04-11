@@ -41,3 +41,7 @@ When you are ready to publish a post, you simply have to move the post to the `_
 1. Update Git with `git add . && git commit -am 'Moved post to posts folder'`
 1. Update the remote GIt repository with `git push origin master`.
 1. The post should be live in under a minute.
+
+## Peer reviewed articles
+
+Using Github, we can leverage sophisticated tools for reviewing articles or website content as a team. Once we get more comfortable with the basic publishing workflow, we can write up docs for how to do reviews on Github.
