@@ -27,6 +27,7 @@ Read the [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Mark
 
 Here is a suggested workflow for writing a blog post.
 
+1. Navigate to the project directory (New centre folder)
 1. Make sure your local Git repository is up to date. `git pull`
 1. Copy the template file in the `_drafts` folder. Change the name of the file and the front matter to reflect the current date and whatever the article will be called.
 1. Choose a category. I think we should just have two for now: `articles` and `conference`.
