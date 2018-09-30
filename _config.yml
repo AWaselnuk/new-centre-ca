@@ -19,7 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
   A conference and blog based in Ottawa, Canada that intends to work towards a
   new centre for tackling the important problems of our generation.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.newcentre.ca" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.newcentre.ca" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: newcentre
 github_username:  AWaselnuk
 permalink: pretty
